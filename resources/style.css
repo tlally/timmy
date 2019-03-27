@@ -1,0 +1,74 @@
+div {
+  border: 0px solid black;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  color: #fdfcfd;
+}
+
+body {
+
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1c2442+0,68ffe9+100 */
+background: #1c2442; /* Old browsers */
+background: -moz-linear-gradient(-45deg, hsla(227,40%,18%,1) 0%, hsla(171,100%,70%,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg, hsla(227,40%,18%,1) 0%,hsla(171,100%,70%,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg, hsla(227,40%,18%,1) 0%,hsla(171,100%,70%,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1c2442', endColorstr='#68ffe9',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+/* Font */
+
+/* Font End */
+
+
+
+.navigation a {
+  color: #fdfcfd;
+  font-weight: 400;
+}
+
+.navigation {
+padding: .5em 0;
+}
+
+.active {
+  font-weight: 500;
+}
+
+.body{
+  height: 100%;
+  width: auto;
+  align-items: center;
+}
+
+.home-logo{
+  max-width: 20%;
+  max-height: auto;
+  margin: 10.5rem;
+
+}
+
+.content {
+  justify-content: center;
+  height: 80%;
+}
+
+i {
+  margin: .1em;
+}
+
+.social a {
+  color: #fdfcfd;
+
+}
+
+.social {
+    text-align: right;
+}
+
+.footer {
+  padding: .5rem 0;
+}
